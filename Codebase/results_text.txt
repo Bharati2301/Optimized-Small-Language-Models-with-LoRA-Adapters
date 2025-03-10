@@ -1,0 +1,79 @@
+meta-llama/Llama-3.2-1B-Instruct
+
+|  Tasks  |Version|Filter|n-shot| Metric |   |Value |   |Stderr|
+|---------|------:|------|-----:|--------|---|-----:|---|-----:|
+|hellaswag|      1|none  |     0|acc     |↑  |0.4507|±  |0.0050|
+|         |       |none  |     0|acc_norm|↑  |0.6073|±  |0.0049|
+
+-----------------------------------------------------------------------
+
+mistralai/Mistral-7B-Instruct-v0.1
+
+|  Tasks  |Version|Filter|n-shot| Metric |   |Value |   |Stderr|
+|---------|------:|------|-----:|--------|---|-----:|---|-----:|
+|hellaswag|      1|none  |     0|acc     |↑  |0.5633|±  |0.0049|
+|         |       |none  |     0|acc_norm|↑  |0.7470|±  |0.0043|
+
+
+
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+vijay-ravichander/Llama-1B-LoRA-r32-merged
+
+|  Tasks  |Version|Filter|n-shot| Metric |   |Value |   |Stderr|
+|---------|------:|------|-----:|--------|---|-----:|---|-----:|
+|hellaswag|      1|none  |     0|acc     |↑  |0.4490|±  |0.0050|
+|         |       |none  |     0|acc_norm|↑  |0.5991|±  |0.0049|
+
+vijay-ravichander/Llama-1B-Summarization-LoRA-All-r64-merged
+
+|  Tasks  |Version|Filter|n-shot| Metric |   |Value |   |Stderr|
+|---------|------:|------|-----:|--------|---|-----:|---|-----:|
+|hellaswag|      1|none  |     0|acc     |↑  |0.4503|±  |0.0050|
+|         |       |none  |     0|acc_norm|↑  |0.5990|±  |0.0049|
+
+vijay-ravichander/Llama-1B-Summarization-LoRA-All-r128-merged
+|  Tasks  |Version|Filter|n-shot| Metric |   |Value |   |Stderr|
+|---------|------:|------|-----:|--------|---|-----:|---|-----:|
+|hellaswag|      1|none  |     0|acc     |↑  |0.4489|±  |0.0050|
+|         |       |none  |     0|acc_norm|↑  |0.6001|±  |0.0049|
+
+
+bharati2324/Llama-1B-Code-LoRA-r32-attn-merged
+|  Tasks  |Version|Filter|n-shot| Metric |   |Value |   |Stderr|
+|---------|------:|------|-----:|--------|---|-----:|---|-----:|
+|hellaswag|      1|none  |     0|acc     |↑  |0.4447|±  |0.0050|
+|         |       |none  |     0|acc_norm|↑  |0.5969|±  |0.0049|
+
+
+vijay-ravichander/Llama-1B-Summarization-LoRA-Attn-r64-merged
+
+|  Tasks  |Version|Filter|n-shot| Metric |   |Value |   |Stderr|
+|---------|------:|------|-----:|--------|---|-----:|---|-----:|
+|hellaswag|      1|none  |     0|acc     |↑  |0.4446|±  |0.0050|
+|         |       |none  |     0|acc_norm|↑  |0.5964|±  |0.0049|
+
+vijay-ravichander/Llama-1B-Summarization-LoRA-Attn-r128-merged
+
+
+bharati2324/Llama-1B-Summarization-LoRA-r32-mlp-merged
+|  Tasks  |Version|Filter|n-shot| Metric |   |Value |   |Stderr|
+|---------|------:|------|-----:|--------|---|-----:|---|-----:|
+|hellaswag|      1|none  |     0|acc     |↑  |0.4499|±  |0.0050|
+|         |       |none  |     0|acc_norm|↑  |0.6006|±  |0.0049|
+
+vijay-ravichander/Llama-1B-Summarization-LoRA-MLP-r64-merged
+
+|  Tasks  |Version|Filter|n-shot| Metric |   |Value |   |Stderr|
+|---------|------:|------|-----:|--------|---|-----:|---|-----:|
+|hellaswag|      1|none  |     0|acc     |↑  |0.4508|±  |0.0050|
+|         |       |none  |     0|acc_norm|↑  |0.6003|±  |0.0049|
+
+vijay-ravichander/Llama-1B-Summarization-LoRA-MLP-r128-merged
+|  Tasks  |Version|Filter|n-shot| Metric |   |Value |   |Stderr|
+|---------|------:|------|-----:|--------|---|-----:|---|-----:|
+|hellaswag|      1|none  |     0|acc     |↑  |0.4510|±  |0.0050|
+|         |       |none  |     0|acc_norm|↑  |0.5997|±  |0.0049|
+
