@@ -4,10 +4,10 @@
 Large Language Models (LLMs) are powerful but resource-intensive. This project explores optimizing **Small Language Models (SLMs)** with **Low-Rank Adaptation (LoRA) adapters** to enhance efficiency while maintaining high performance in **memory-constrained environments**.
 
 ### 🔥 Key Highlights:
-- ✅ **Fine-tuned SLMs** for code generation, mathematical reasoning, and text summarization.
-- ⚡ **Task-Specific LoRA adapters** enable dynamic swapping for modular AI applications.
-- 📊 **Evaluated on HumanEval, GSM8K, and HellaSwag** benchmarks.
-- 🖥️ **Efficient inference on resource-limited devices** without compromising performance.
+- **Fine-tuned SLMs** for code generation, mathematical reasoning, and text summarization.
+- **Task-Specific LoRA adapters** enable dynamic swapping for modular AI applications.
+- **Evaluated on HumanEval, GSM8K, and HellaSwag** benchmarks.
+- 🖥**Efficient inference on resource-limited devices** without compromising performance.
 
 ---
 
